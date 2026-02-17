@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Juan Esteban Vargas 👋
+🎓 Microbiology student from Colombia
+🧬 Passionate about Bioinformatics
+🔬 Currently working with Metagenomics
 
-<!--
-**juanvargas0304/juanvargas0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 About me
+I'm a microbiology student with a strong interest in biological data analysis. I'm passionate about understanding microorganisms through computational tools, especially in the field of metagenomics.
 
-Here are some ideas to get you started:
+🛠️ Tools & Languages
+R — Statistical analysis and data visualization
+Python — Currently learning 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I'm working on
+
+🧫 Metagenomics data analysis
+📚 Learning Python for bioinformatics
+🌱 Exploring bioinformatic tools for the study of microbial communities
